@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "pr-review-assistant": {
+      "command": "/Users/vidhatrihegde/Desktop/Assignment4_MCP/.venv/bin/python",
+      "args": [
+        "/Users/vidhatrihegde/Desktop/Assignment4_MCP/server.py"
+      ]
+    }
+  }
+}

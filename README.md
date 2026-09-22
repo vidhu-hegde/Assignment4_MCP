@@ -78,6 +78,6 @@ python -m unittest discover -v
 ```
 
 ## References
-
+- I used ChatGPT codex to help me implement this MCP server
 - [Official MCP Python SDK example](https://github.com/modelcontextprotocol/python-sdk/blob/v1.x/examples/snippets/servers/fastmcp_quickstart.py) — FastMCP decorators and `stdio` server pattern.
 - [GitHub Pull Requests REST API](https://docs.github.com/en/rest/pulls/pulls) — pull request endpoints and authentication requirements.

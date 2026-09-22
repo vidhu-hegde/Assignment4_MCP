@@ -1,7 +1,7 @@
 # GitHub PR Review MCP Server
 
-Name - Vidhatri Sudarshan Hegde
-Netid - vh256@cornell.edu
+- Name - Vidhatri Sudarshan Hegde
+- Netid - vh256@cornell.edu
 
 A Python MCP server for the **Development Workflow** domain. It connects Claude
 Desktop to GitHub for read-only pull request review.
